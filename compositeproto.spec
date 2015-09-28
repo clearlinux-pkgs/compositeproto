@@ -4,7 +4,7 @@
 #
 Name     : compositeproto
 Version  : 0.4.2
-Release  : 4
+Release  : 5
 URL      : http://xorg.freedesktop.org/releases/individual/proto/compositeproto-0.4.2.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/compositeproto-0.4.2.tar.bz2
 Summary  : Composite extension headers
